@@ -1,0 +1,10 @@
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\bin\Debug\Logica.dll
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alumnos_IBT\source\repos\ProyectoContactos\Presentacion\obj\Debug\Presentacion.pdb

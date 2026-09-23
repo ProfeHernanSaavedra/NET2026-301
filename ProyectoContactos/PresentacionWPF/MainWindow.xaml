@@ -1,0 +1,56 @@
+﻿<Window x:Class="PresentacionWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentacionWPF"
+        mc:Ignorable="d"
+        Title="Demo WPF" Height="500" Width="850" Background="#F2F2F2">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBlock 
+                Text="Mis Contactos" 
+                FontSize="24"/>
+            <Button
+                Name="BtnInicio"
+                Content="Inicio" 
+                Width="200" 
+                Height="40" 
+                VerticalAlignment="Top" 
+                HorizontalAlignment="Left"
+                HorizontalContentAlignment="Left" Padding="15,0,0,0"
+                Background="Transparent"
+                BorderThickness="0"/>
+            <Button
+                Name="BtnNuevo"
+                Content="Nuevo Contacto" 
+                Width="200" 
+                Height="40" 
+                VerticalAlignment="Top" 
+                HorizontalAlignment="Left"
+                HorizontalContentAlignment="Left" Padding="15,0,0,0"
+                Background="Transparent"
+                BorderThickness="0" FontWeight="Normal" Click="BtnNuevo_Click"/>
+
+            <Button
+                Name="BtnListar"
+                Content="Ver Contactos" 
+                Width="200" 
+                Height="40" 
+                VerticalAlignment="Top" 
+                HorizontalAlignment="Left"
+                HorizontalContentAlignment="Left" Padding="15,0,0,0"
+                Background="Transparent"
+                BorderThickness="0" FontWeight="Normal" Click="BtnListar_Click"/>
+
+
+        </StackPanel>
+        <Grid x:Name="GrdMain" Grid.Column="1">
+            <TextBlock Text="Hola mundo"/>
+        </Grid>
+    </Grid>
+</Window>

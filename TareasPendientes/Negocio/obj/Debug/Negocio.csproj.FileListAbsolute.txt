@@ -1,0 +1,17 @@
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\TareasPendientes.mdf
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\TareasPendientes_log.ldf
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\Negocio.dll
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\Datos.dll
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\Datos.pdb
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\obj\Debug\Negocio.dll
+C:\Users\Alumnos_IBT\source\repos\TareasPendientes\Negocio\obj\Debug\Negocio.pdb

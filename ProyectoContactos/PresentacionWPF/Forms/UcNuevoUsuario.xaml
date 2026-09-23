@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="PresentacionWPF.Forms.UcNuevoUsuario"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PresentacionWPF.Forms"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="600" Background="#f2f2f2" Loaded="UserControl_Loaded">
+    <Grid Height="500" VerticalAlignment="Center" HorizontalAlignment="Right" Width="600">
+        <Label Content="Nuevo Contacto" FontSize="22" HorizontalAlignment="Left" VerticalAlignment="Top"  Foreground="#223760" FontWeight="Bold" Margin="10,10,0,0"/>
+        
+        <Label Content="Nombre:" Width="100" Height="40" Margin="56,76,344,384" FontSize="14"/>
+        <TextBox x:Name="TxtNombre" Width="200" Height="40" Margin="227,76,173,384" FontSize="14"/>
+
+        <Label Content="Apellido:" Width="100" Height="40" Margin="106,146,394,314" FontSize="14"/>
+        <TextBox x:Name="TxtApellido" Width="200" Height="40" Margin="227,146,173,314" FontSize="14"/>
+
+        <Label Content="Telefono:" Width="100" Height="40" Margin="106,220,394,240" FontSize="14"/>
+        <TextBox x:Name="TxtTelefono" Width="200" Height="40" Margin="227,220,173,240" FontSize="14"/>
+
+        <Label Content="Cumpleaños:" Width="100" Height="40" Margin="106,293,394,167" FontSize="14"/>
+        <DatePicker Name="DtFechaNacimiento" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="227,293,0,0" Height="40" Width="200" FontSize="16"/>
+
+        <Label Content="Grupo:" Width="100" Height="40" Margin="106,357,394,103" FontSize="14"/>
+        <ComboBox x:Name="CboGrupo" HorizontalAlignment="Left" Margin="227,359,0,0" VerticalAlignment="Top" Width="200" Height="38" FontSize="16"/>
+        
+        <Button Name="BtnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="439,437,0,0" VerticalAlignment="Top" Width="124" Height="34" Background="#A79BD6" BorderThickness="0" Click="BtnGuardar_Click"/>
+
+
+
+    </Grid>
+</UserControl>

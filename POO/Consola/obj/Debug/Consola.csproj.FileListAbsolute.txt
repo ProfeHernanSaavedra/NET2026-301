@@ -1,0 +1,10 @@
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\bin\Debug\Consola.exe.config
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\bin\Debug\Consola.exe
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\bin\Debug\Consola.pdb
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\obj\Debug\Consola.exe
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\obj\Debug\Consola.pdb
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\bin\Debug\Logica.dll
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\bin\Debug\Logica.pdb
+C:\Users\Alumnos_IBT\source\repos\POO\Consola\obj\Debug\Consola.csproj.CopyComplete

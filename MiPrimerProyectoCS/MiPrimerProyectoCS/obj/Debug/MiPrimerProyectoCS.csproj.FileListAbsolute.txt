@@ -1,0 +1,7 @@
+C:\Users\Alumnos_IBT\source\repos\MiPrimerProyectoCS\MiPrimerProyectoCS\bin\Debug\MiPrimerProyectoCS.exe.config
+C:\Users\Alumnos_IBT\source\repos\MiPrimerProyectoCS\MiPrimerProyectoCS\bin\Debug\MiPrimerProyectoCS.exe
+C:\Users\Alumnos_IBT\source\repos\MiPrimerProyectoCS\MiPrimerProyectoCS\bin\Debug\MiPrimerProyectoCS.pdb
+C:\Users\Alumnos_IBT\source\repos\MiPrimerProyectoCS\MiPrimerProyectoCS\obj\Debug\MiPrimerProyectoCS.csprojAssemblyReference.cache
+C:\Users\Alumnos_IBT\source\repos\MiPrimerProyectoCS\MiPrimerProyectoCS\obj\Debug\MiPrimerProyectoCS.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos_IBT\source\repos\MiPrimerProyectoCS\MiPrimerProyectoCS\obj\Debug\MiPrimerProyectoCS.exe
+C:\Users\Alumnos_IBT\source\repos\MiPrimerProyectoCS\MiPrimerProyectoCS\obj\Debug\MiPrimerProyectoCS.pdb
