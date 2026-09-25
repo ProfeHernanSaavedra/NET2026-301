@@ -1,0 +1,14 @@
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\TareasPendientes.mdf
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\TareasPendientes_log.ldf
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\Datos.dll.config
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\Datos.dll
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\Datos.pdb
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\obj\Debug\Datos.dll
+C:\Users\Alumnos_IBT\Downloads\TareasPendientes_BLL_Simple\TareasPendientes\Datos\obj\Debug\Datos.pdb
